@@ -101,9 +101,6 @@ end
 end
 
 
-
-
-
 # {
 #     :winter => {
 #       :christmas => ["Lights", "Wreath"],
